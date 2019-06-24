@@ -41,4 +41,3 @@ class TextAnalyzer
       biggest
     end
   end
-    
